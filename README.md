@@ -56,10 +56,6 @@ Model Selection:
 
 Content-based filtering using cosine similarity on movie features.
 
-Collaborative filtering using matrix factorization or neural networks.
-
-Hybrid models combining content-based and collaborative filtering techniques.
-
 Model Training:
 
 Train models on processed data.
@@ -69,8 +65,6 @@ Optimize hyperparameters to improve recommendation accuracy.
 Model Evaluation:
 
 Evaluate models using metrics like precision, recall, and Mean Absolute Error (MAE).
-
-Perform A/B testing with sample users to validate recommendations.
 
 Deployment:
 
